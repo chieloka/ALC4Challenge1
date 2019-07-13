@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC4Challenge1</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email">Email:</string>
+    <string name="my_email">profeloka@yahoo.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="my_phone">08065979060</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="my_usernme">Eloka</string>
+</resources>
